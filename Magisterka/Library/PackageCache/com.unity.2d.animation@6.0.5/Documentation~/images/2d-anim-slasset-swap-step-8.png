@@ -1,0 +1,1071 @@
+i nebo k interní síti, smí kopírovat a používat dokumentaci pouze pro vaše interní referenèní úèely.
+5. VÝVOZNÍ OMEZENÍ.  Software podléhá naøízením a zákonùm o vývozu platným ve Spojených státech amerických.  Musíte dodržovat všechny pøíslušné místní i mezinárodní naøízení a zákony o vývozu vztahující se na software.  Mezi tyto zákony patøí omezení míst urèení, koncových uživatelù a koncového užívání.  Další informace naleznete na adrese www.microsoft.com/exporting.
+6. SLUŽBY ODBORNÉ POMOCI.  Vzhledem k tomu, že tento software je poskytován „tak, jak stojí a leží“, nemusíme poskytovat žádné související služby odborné pomoci.
+7. ÚPLNÁ DOHODA.  Tato smlouva a podmínky pro doplòky, aktualizace, internetové služby a služby odborné pomoci, které užíváte, tvoøí úplnou dohodu ohlednì softwaru a služeb odborné pomoci.
+8. ROZHODNÉ PRÁVO.
+a. Spojené státy americké.  Pokud jste tento software získali ve Spojených státech amerických, øídí se výklad této smlouvy zákony státu Washington a tyto zákony se vztahují na nároky spojené s jejím porušením, bez ohledu na kolizní ustanovení práva.  Zákony státu, v nìmž žijete, se øídí všechny ostatní nároky, vèetnì nárokù spojených s místními zákony na ochranu spotøebitele, se zákony proti nekalé soutìži a s obèanskoprávními delikty.
+b. Mimo území Spojených státù amerických.  Pokud jste software získali na území jakékoli jiné zemì, bude se tato smlouva øídit zákony této zemì.
+9. PRÁVNÍ ÚÈINKY.  Tato smlouva popisuje urèitá zákonná práva.  Zákony vaší zemì vám mohou poskytovat i další práva.  Mùžete mít rovnìž další práva ve vztahu ke stranì, od níž jste software získali.  Tato smlouva nemìní vaše práva v rámci právního øádu vaší zemì, pokud právní øád vaší zemì nepovoluje jejich zmìnu.
+10. ZØEKNUTÍ SE ZÁRUK.  SOFTWARE JE LICENCOVÁN „TAK, JAK STOJÍ A LEŽÍ“.  VEŠKERÁ RIZIKA SPOJENÁ S JEHO UŽÍVÁNÍM NESETE VY.  SPOLEÈNOST MICROSOFT NEPOSKYTUJE ŽÁDNÉ VÝSLOVNÉ ZÁRUKY, GARANCE ANI PODMÍNKY.  V RÁMCI VAŠICH MÍSTNÍCH ZÁKONÙ MÙŽETE MÍT DALŠÍ PRÁVA SPOTØEBITELE, KTERÁ TATO SMLOUVA NEMÙŽE ZMÌNIT.  V ROZSAHU POVOLENÉM VAŠIMI MÍSTNÍMI ZÁKONY SPOLEÈNOST MICROSOFT VYLUÈUJE PØEDPOKLÁDANÉ ZÁRUKY PRODEJNOSTI, VHODNOSTI PRO URÈITÝ ÚÈEL A NEPORUŠENÍ SMLOUVY.
+11. OMEZENÍ A VYLOUÈENÍ PROSTØEDKÙ NÁPRAVY A NÁHRADY ŠKODY.  OD SPOLEÈNOSTI MICROSOFT A JEJÍCH DODAVATELÙ MÙŽETE ZÍSKAT POUZE NÁHRADU ZA PØÍMÉ ŠKODY AŽ DO VÝŠE 5 USD.  NEZÍSKÁTE NÁHRADU ZA ŽÁDNÉ JINÉ ŠKODY, VÈETNÌ NÁSLEDNÝCH ŠKOD, UŠLÉHO ZISKU A ZVLÁŠTNÍCH, NEPØÍMÝCH NEBO NÁHODNÝCH ŠKOD.
+Toto omezení se vztahuje
+* na všechny záležitosti související se softwarem, službami, obsahem na internetových stránkách tøetích stran (vèetnì kódu) nebo programy tøetích stran a
+* na nároky za porušení smlouvy, porušení záruky, garance nebo podmínky, objektivní odpovìdnost, nedbalost nebo jiné obèanskoprávní delikty v rozsahu povoleném rozhodným právem.
+Vztahuje se rovnìž na situace, kdy spoleènost Microsoft vìdìla nebo mohla vìdìt o možnosti vzniku tìchto škod.  Výše uvedené omezení nebo vylouèení se na vás nemusí rovnìž vztahovat v pøípadì, že vaše zemì neumožòuje vylouèení nebo omezení náhodných, následných nebo jiných škod.
+LICENÈNÍ PODMÍNKY PRO SOFTWARE SPOLEÈNOSTI MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Tyto licenèní podmínky pøedstavují smlouvu mezi spoleèností Microsoft Corporation (nebo nìkterou z jejích afilací, v závislosti na tom, kde bydlíte) a vámi.  Pøeètìte si je, prosím.  Vztahují se na software uvedený výše, který zahrnuje média, na nichž jste jej získali (pokud existují).  Tyto podmínky se rovnìž vztahují na:
+* aktualizace,
+* dodatky,
+* internetové služby a 
+* služby odborné pomoci
+spoleènosti Microsoft pro tento software, pokud s tìmito položkami nejsou dodávány jiné podmínky.  Pokud ano, budou platit tyto jiné podmínky.
+POUŽITÍM SOFTWARU PØIJÍMÁTE TYTO PODMÍNKY.  POKUD JE NEPØIJÍMÁTE, SOFTWARE NEPOUŽÍVEJTE.
+Dodržíte-li tyto licenèní podmínky, máte následující práva.
+1. PRÁVA K UŽÍVÁNÍ A INSTALACI.  Mùžete instalovat a užívat libovolný poèet kopií softwaru na vašich zaøízeních.
+2. ROZSAH LICENCE.  Software se neprodává, pouze se udìluje licence k jeho užívání.  Tato smlouva vám poskytuje pouze urèitá práva k užívání softwaru.  Všechna ostatní práva si vyhrazuje spoleènost Microsoft.  Pokud vám rozhodné právo bez ohledu na tato omezení neposkytuje více práv, smíte software užívat pouze v souladu s podmínkami této smlouvy.  Souèasnì musíte dodržovat veškerá technická omezení v softwaru, která umožòují jeho užívání pouze urèitými zpùsoby.  Nesmíte
+* pøekraèovat žádná technická omezení softwaru,
+* provádìt zpìtnou analýzu, dekompilaci nebo pøevod ze strojového kódu softwaru, s výjimkou a v rozsahu takových aktivit, které jsou výslovnì povoleny rozhodným právem bez ohledu na toto omezení,
+* vytváøet více kopií softwaru než je urèeno v této smlouvì nebo povoleno rozhodným právem bez ohledu na toto omezení,
+* zveøejnit software, aby jej ostatní mohli kopírovat,
+* pronajímat, pùjèovat nebo poskytovat software na leasing,
+* pøevést software nebo tuto smlouvu na tøetí stranu, nebo
+* užívat software pro komerèní hostitelské služby.
+3. ZÁLOŽNÍ KOPIE.  Smíte zhotovit jednu záložní kopii softwaru.  Smíte ji použít pouze k pøeinstalování softwaru.
+4. DOKUMENTACE.  Každá osoba, která má platný pøístup k vašemu poèítaèi nebo k interní síti, smí kopírovat a používat dokumentaci pouze pro vaše interní referenèní úèely.
+5. VÝVOZNÍ OMEZENÍ.  Software podléhá naøízením a zákonùm o vývozu platným ve Spojených státech amerických.  Musíte dodržovat všechny pøíslušné místní i mezinárodní naøízení a zákony o vývozu vztahující se na software.  Mezi tyto zákony patøí omezení míst urèení, koncových uživatelù a koncového užívání.  Další informace naleznete na adrese www.microsoft.com/exporting.
+6. SLUŽBY ODBORNÉ POMOCI.  Vzhledem k tomu, že tento software je poskytován „tak, jak stojí a leží“, nemusíme poskytovat žádné související služby odborné pomoci.
+7. ÚPLNÁ DOHODA.  Tato smlouva a podmínky pro doplòky, aktualizace, internetové služby a služby odborné pomoci, které užíváte, tvoøí úplnou dohodu ohlednì softwaru a služeb odborné pomoci.
+8. ROZHODNÉ PRÁVO.
+a. Spojené státy americké.  Pokud jste tento software získali ve Spojených státech amerických, øídí se výklad této smlouvy zákony státu Washington a tyto zákony se vztahují na nároky spojené s jejím porušením, bez ohledu na kolizní ustanovení práva.  Zákony státu, v nìmž žijete, se øídí všechny ostatní nároky, vèetnì nárokù spojených s místními zákony na ochranu spotøebitele, se zákony proti nekalé soutìži a s obèanskoprávními delikty.
+b. Mimo území Spojených státù amerických.  Pokud jste software získali na území jakékoli jiné zemì, bude se tato smlouva øídit zákony této zemì.
+9. PRÁVNÍ ÚÈINKY.  Tato smlouva popisuje urèitá zákonná práva.  Zákony vaší zemì vám mohou poskytovat i další práva.  Mùžete mít rovnìž další práva ve vztahu ke stranì, od níž jste software získali.  Tato smlouva nemìní vaše práva v rámci právního øádu vaší zemì, pokud právní øád vaší zemì nepovoluje jejich zmìnu.
+10. ZØEKNUTÍ SE ZÁRUK.  SOFTWARE JE LICENCOVÁN „TAK, JAK STOJÍ A LEŽÍ“.  VEŠKERÁ RIZIKA SPOJENÁ S JEHO UŽÍVÁNÍM NESETE VY.  SPOLEÈNOST MICROSOFT NEPOSKYTUJE ŽÁDNÉ VÝSLOVNÉ ZÁRUKY, GARANCE ANI PODMÍNKY.  V RÁMCI VAŠICH MÍSTNÍCH ZÁKONÙ MÙŽETE MÍT DALŠÍ PRÁVA SPOTØEBITELE, KTERÁ TATO SMLOUVA NEMÙŽE ZMÌNIT.  V ROZSAHU POVOLENÉM VAŠIMI MÍSTNÍMI ZÁKONY SPOLEÈNOST MICROSOFT VYLUÈUJE PØEDPOKLÁDANÉ ZÁRUKY PRODEJNOSTI, VHODNOSTI PRO URÈITÝ ÚÈEL A NEPORUŠENÍ SMLOUVY.
+11. OMEZENÍ A VYLOUÈENÍ PROSTØEDKÙ NÁPRAVY A NÁHRADY ŠKODY.  OD SPOLEÈNOSTI MICROSOFT A JEJÍCH DODAVATELÙ MÙŽETE ZÍSKAT POUZE NÁHRADU ZA PØÍMÉ ŠKODY AŽ DO VÝŠE 5 USD.  NEZÍSKÁTE NÁHRADU ZA ŽÁDNÉ JINÉ ŠKODY, VÈETNÌ NÁSLEDNÝCH ŠKOD, UŠLÉHO ZISKU A ZVLÁŠTNÍCH, NEPØÍMÝCH NEBO NÁHODNÝCH ŠKOD.
+Toto omezení se vztahuje
+* na všechny záležitosti související se softwarem, službami, obsahem na internetových stránkách tøetích stran (vèetnì kódu) nebo programy tøetích stran a
+* na nároky za porušení smlouvy, porušení záruky, garance nebo podmínky, objektivní odpovìdnost, nedbalost nebo jiné obèanskoprávní delikty v rozsahu povoleném rozhodným právem.
+Vztahuje se rovnìž na situace, kdy spoleènost Microsoft vìdìla nebo mohla vìdìt o možnosti vzniku tìchto škod.  Výše uvedené omezení nebo vylouèení se na vás nemusí rovnìž vztahovat v pøípadì, že vaše zemì neumožòuje vylouèení nebo omezení náhodných, následných nebo jiných škod.
+LICENÈNÍ PODMÍNKY PRO SOFTWARE SPOLEÈNOSTI MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Tyto licenèní podmínky pøedstavují smlouvu mezi spoleèností Microsoft Corporation (nebo nìkterou z jejích afilací, v závislosti na tom, kde bydlíte) a vámi.  Pøeètìte si je, prosím.  Vztahují se na software uvedený výše, který zahrnuje média, na nichž jste jej získali (pokud existují).  Tyto podmínky se rovnìž vztahují na:
+* aktualizace,
+* dodatky,
+* internetové služby a 
+* služby odborné pomoci
+spoleènosti Microsoft pro tento software, pokud s tìmito položkami nejsou dodávány jiné podmínky.  Pokud ano, budou platit tyto jiné podmínky.
+POUŽITÍM SOFTWARU PØIJÍMÁTE TYTO PODMÍNKY.  POKUD JE NEPØIJÍMÁTE, SOFTWARE NEPOUŽÍVEJTE.
+Dodržíte-li tyto licenèní podmínky, máte následující práva.
+1. PRÁVA K UŽÍVÁNÍ A INSTALACI.  Mùžete instalovat a užívat libovolný poèet kopií softwaru na vašich zaøízeních.
+2. ROZSAH LICENCE.  Software se neprodává, pouze se udìluje licence k jeho užívání.  Tato smlouva vám poskytuje pouze urèitá práva k užívání softwaru.  Všechna ostatní práva si vyhrazuje spoleènost Microsoft.  Pokud vám rozhodné právo bez ohledu na tato omezení neposkytuje více práv, smíte software užívat pouze v souladu s podmínkami této smlouvy.  Souèasnì musíte dodržovat veškerá technická omezení v softwaru, která umožòují jeho užívání pouze urèitými zpùsoby.  Nesmíte
+* pøekraèovat žádná technická omezení softwaru,
+* provádìt zpìtnou analýzu, dekompilaci nebo pøevod ze strojového kódu softwaru, s výjimkou a v rozsahu takových aktivit, které jsou výslovnì povoleny rozhodným právem bez ohledu na toto omezení,
+* vytváøet více kopií softwaru než je urèeno v této smlouvì nebo povoleno rozhodným právem bez ohledu na toto omezení,
+* zveøejnit software, aby jej ostatní mohli kopírovat,
+* pronajímat, pùjèovat nebo poskytovat software na leasing,
+* pøevést software nebo tuto smlouvu na tøetí stranu, nebo
+* užívat software pro komerèní hostitelské služby.
+3. ZÁLOŽNÍ KOPIE.  Smíte zhotovit jednu záložní kopii softwaru.  Smíte ji použít pouze k pøeinstalování softwaru.
+4. DOKUMENTACE.  Každá osoba, která má platný pøístup k vašemu poèítaèi nebo k interní síti, smí kopírovat a používat dokumentaci pouze pro vaše interní referenèní úèely.
+5. VÝVOZNÍ OMEZENÍ.  Software podléhá naøízením a zákonùm o vývozu platným ve Spojených státech amerických.  Musíte dodržovat všechny pøíslušné místní i mezinárodní naøízení a zákony o vývozu vztahující se na software.  Mezi tyto zákony patøí omezení míst urèení, koncových uživatelù a koncového užívání.  Další informace naleznete na adrese www.microsoft.com/exporting.
+6. SLUŽBY ODBORNÉ POMOCI.  Vzhledem k tomu, že tento software je poskytován „tak, jak stojí a leží“, nemusíme poskytovat žádné související služby odborné pomoci.
+7. ÚPLNÁ DOHODA.  Tato smlouva a podmínky pro doplòky, aktualizace, internetové služby a služby odborné pomoci, které užíváte, tvoøí úplnou dohodu ohlednì softwaru a služeb odborné pomoci.
+8. ROZHODNÉ PRÁVO.
+a. Spojené státy americké.  Pokud jste tento software získali ve Spojených státech amerických, øídí se výklad této smlouvy zákony státu Washington a tyto zákony se vztahují na nároky spojené s jejím porušením, bez ohledu na kolizní ustanovení práva.  Zákony státu, v nìmž žijete, se øídí všechny ostatní nároky, vèetnì nárokù spojených s místními zákony na ochranu spotøebitele, se zákony proti nekalé soutìži a s obèanskoprávními delikty.
+b. Mimo území Spojených státù amerických.  Pokud jste software získali na území jakékoli jiné zemì, bude se tato smlouva øídit zákony této zemì.
+9. PRÁVNÍ ÚÈINKY.  Tato smlouva popisuje urèitá zákonná práva.  Zákony vaší zemì vám mohou poskytovat i další práva.  Mùžete mít rovnìž další práva ve vztahu ke stranì, od níž jste software získali.  Tato smlouva nemìní vaše práva v rámci právního øádu vaší zemì, pokud právní øád vaší zemì nepovoluje jejich zmìnu.
+10. ZØEKNUTÍ SE ZÁRUK.  SOFTWARE JE LICENCOVÁN „TAK, JAK STOJÍ A LEŽÍ“.  VEŠKERÁ RIZIKA SPOJENÁ S JEHO UŽÍVÁNÍM NESETE VY.  SPOLEÈNOST MICROSOFT NEPOSKYTUJE ŽÁDNÉ VÝSLOVNÉ ZÁRUKY, GARANCE ANI PODMÍNKY.  V RÁMCI VAŠICH MÍSTNÍCH ZÁKONÙ MÙŽETE MÍT DALŠÍ PRÁVA SPOTØEBITELE, KTERÁ TATO SMLOUVA NEMÙŽE ZMÌNIT.  V ROZSAHU POVOLENÉM VAŠIMI MÍSTNÍMI ZÁKONY SPOLEÈNOST MICROSOFT VYLUÈUJE PØEDPOKLÁDANÉ ZÁRUKY PRODEJNOSTI, VHODNOSTI PRO URÈITÝ ÚÈEL A NEPORUŠENÍ SMLOUVY.
+11. OMEZENÍ A VYLOUÈENÍ PROSTØEDKÙ NÁPRAVY A NÁHRADY ŠKODY.  OD SPOLEÈNOSTI MICROSOFT A JEJÍCH DODAVATELÙ MÙŽETE ZÍSKAT POUZE NÁHRADU ZA PØÍMÉ ŠKODY AŽ DO VÝŠE 5 USD.  NEZÍSKÁTE NÁHRADU ZA ŽÁDNÉ JINÉ ŠKODY, VÈETNÌ NÁSLEDNÝCH ŠKOD, UŠLÉHO ZISKU A ZVLÁŠTNÍCH, NEPØÍMÝCH NEBO NÁHODNÝCH ŠKOD.
+Toto omezení se vztahuje
+* na všechny záležitosti související se softwarem, službami, obsahem na internetových stránkách tøetích stran (vèetnì kódu) nebo programy tøetích stran a
+* na nároky za porušení smlouvy, porušení záruky, garance nebo podmínky, objektivní odpovìdnost, nedbalost nebo jiné obèanskoprávní delikty v rozsahu povoleném rozhodným právem.
+Vztahuje se rovnìž na situace, kdy spoleènost Microsoft vìdìla nebo mohla vìdìt o možnosti vzniku tìchto škod.  Výše uvedené omezení nebo vylouèení se na vás nemusí rovnìž vztahovat v pøípadì, že vaše zemì neumožòuje vylouèení nebo omezení náhodných, následných nebo jiných škod.
+LICENÈNÍ PODMÍNKY PRO SOFTWARE SPOLEÈNOSTI MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Tyto licenèní podmínky pøedstavují smlouvu mezi spoleèností Microsoft Corporation (nebo nìkterou z jejích afilací, v závislosti na tom, kde bydlíte) a vámi.  Pøeètìte si je, prosím.  Vztahují se na software uvedený výše, který zahrnuje média, na nichž jste jej získali (pokud existují).  Tyto podmínky se rovnìž vztahují na:
+* aktualizace,
+* dodatky,
+* internetové služby a 
+* služby odborné pomoci
+spoleènosti Microsoft pro tento software, pokud s tìmito položkami nejsou dodávány jiné podmínky.  Pokud ano, budou platit tyto jiné podmínky.
+POUŽITÍM SOFTWARU PØIJÍMÁTE TYTO PODMÍNKY.  POKUD JE NEPØIJÍMÁTE, SOFTWARE NEPOUŽÍVEJTE.
+Dodržíte-li tyto licenèní podmínky, máte následující práva.
+1. PRÁVA K UŽÍVÁNÍ A INSTALACI.  Mùžete instalovat a užívat libovolný poèet kopií softwaru na vašich zaøízeních.
+2. ROZSAH LICENCE.  Software se neprodává, pouze se udìluje licence k jeho užívání.  Tato smlouva vám poskytuje pouze urèitá práva k užívání softwaru.  Všechna ostatní práva si vyhrazuje spoleènost Microsoft.  Pokud vám rozhodné právo bez ohledu na tato omezení neposkytuje více práv, smíte software užívat pouze v souladu s podmínkami této smlouvy.  Souèasnì musíte dodržovat veškerá technická omezení v softwaru, která umožòují jeho užívání pouze urèitými zpùsoby.  Nesmíte
+* pøekraèovat žádná technická omezení softwaru,
+* provádìt zpìtnou analýzu, dekompilaci nebo pøevod ze strojového kódu softwaru, s výjimkou a v rozsahu takových aktivit, které jsou výslovnì povoleny rozhodným právem bez ohledu na toto omezení,
+* vytváøet více kopií softwaru než je urèeno v této smlouvì nebo povoleno rozhodným právem bez ohledu na toto omezení,
+* zveøejnit software, aby jej ostatní mohli kopírovat,
+* pronajímat, pùjèovat nebo poskytovat software na leasing,
+* pøevést software nebo tuto smlouvu na tøetí stranu, nebo
+* užívat software pro komerèní hostitelské služby.
+3. ZÁLOŽNÍ KOPIE.  Smíte zhotovit jednu záložní kopii softwaru.  Smíte ji použít pouze k pøeinstalování softwaru.
+4. DOKUMENTACE.  Každá osoba, která má platný pøístup k vašemu poèítaèi nebo k interní síti, smí kopírovat a používat dokumentaci pouze pro vaše interní referenèní úèely.
+5. VÝVOZNÍ OMEZENÍ.  Software podléhá naøízením a zákonùm o vývozu platným ve Spojených státech amerických.  Musíte dodržovat všechny pøíslušné místní i mezinárodní naøízení a zákony o vývozu vztahující se na software.  Mezi tyto zákony patøí omezení míst urèení, koncových uživatelù a koncového užívání.  Další informace naleznete na adrese www.microsoft.com/exporting.
+6. SLUŽBY ODBORNÉ POMOCI.  Vzhledem k tomu, že tento software je poskytován „tak, jak stojí a leží“, nemusíme poskytovat žádné související služby odborné pomoci.
+7. ÚPLNÁ DOHODA.  Tato smlouva a podmínky pro doplòky, aktualizace, internetové služby a služby odborné pomoci, které užíváte, tvoøí úplnou dohodu ohlednì softwaru a služeb odborné pomoci.
+8. ROZHODNÉ PRÁVO.
+a. Spojené státy americké.  Pokud jste tento software získali ve Spojených státech amerických, øídí se výklad této smlouvy zákony státu Washington a tyto zákony se vztahují na nároky spojené s jejím porušením, bez ohledu na kolizní ustanovení práva.  Zákony státu, v nìmž žijete, se øídí všechny ostatní nároky, vèetnì nárokù spojených s místními zákony na ochranu spotøebitele, se zákony proti nekalé soutìži a s obèanskoprávními delikty.
+b. Mimo území Spojených státù amerických.  Pokud jste software získali na území jakékoli jiné zemì, bude se tato smlouva øídit zákony této zemì.
+9. PRÁVNÍ ÚÈINKY.  Tato smlouva popisuje urèitá zákonná práva.  Zákony vaší zemì vám mohou poskytovat i další práva.  Mùžete mít rovnìž další práva ve vztahu ke stranì, od níž jste software získali.  Tato smlouva nemìní vaše práva v rámci právního øádu vaší zemì, pokud právní øád vaší zemì nepovoluje jejich zmìnu.
+10. ZØEKNUTÍ SE ZÁRUK.  SOFTWARE JE LICENCOVÁN „TAK, JAK STOJÍ A LEŽÍ“.  VEŠKERÁ RIZIKA SPOJENÁ S JEHO UŽÍVÁNÍM NESETE VY.  SPOLEÈNOST MICROSOFT NEPOSKYTUJE ŽÁDNÉ VÝSLOVNÉ ZÁRUKY, GARANCE ANI PODMÍNKY.  V RÁMCI VAŠICH MÍSTNÍCH ZÁKONÙ MÙŽETE MÍT DALŠÍ PRÁVA SPOTØEBITELE, KTERÁ TATO SMLOUVA NEMÙŽE ZMÌNIT.  V ROZSAHU POVOLENÉM VAŠIMI MÍSTNÍMI ZÁKONY SPOLEÈNOST MICROSOFT VYLUÈUJE PØEDPOKLÁDANÉ ZÁRUKY PRODEJNOSTI, VHODNOSTI PRO URÈITÝ ÚÈEL A NEPORUŠENÍ SMLOUVY.
+11. OMEZENÍ A VYLOUÈENÍ PROSTØEDKÙ NÁPRAVY A NÁHRADY ŠKODY.  OD SPOLEÈNOSTI MICROSOFT A JEJÍCH DODAVATELÙ MÙŽETE ZÍSKAT POUZE NÁHRADU ZA PØÍMÉ ŠKODY AŽ DO VÝŠE 5 USD.  NEZÍSKÁTE NÁHRADU ZA ŽÁDNÉ JINÉ ŠKODY, VÈETNÌ NÁSLEDNÝCH ŠKOD, UŠLÉHO ZISKU A ZVLÁŠTNÍCH, NEPØÍMÝCH NEBO NÁHODNÝCH ŠKOD.
+Toto omezení se vztahuje
+* na všechny záležitosti související se softwarem, službami, obsahem na internetových stránkách tøetích stran (vèetnì kódu) nebo programy tøetích stran a
+* na nároky za porušení smlouvy, porušení záruky, garance nebo podmínky, objektivní odpovìdnost, nedbalost nebo jiné obèanskoprávní delikty v rozsahu povoleném rozhodným právem.
+Vztahuje se rovnìž na situace, kdy spoleènost Microsoft vìdìla nebo mohla vìdìt o možnosti vzniku tìchto škod.  Výše uvedené omezení nebo vylouèení se na vás nemusí rovnìž vztahovat v pøípadì, že vaše zemì neumožòuje vylouèení nebo omezení náhodných, následných nebo jiných škod.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENTIEBEPALINGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Deze licentiebepalingen vormen een overeenkomst tussen Microsoft Corporation (of, afhankelijk van uw woonplaats, een van haar gelieerde ondernemingen) en u.  Lees deze bepalingen aandachtig door.  Deze bepalingen zijn van toepassing op de software die hierboven wordt vermeld, met inbegrip van de media waarop u de software hebt ontvangen (indien van toepassing).  De bepalingen zijn tevens van toepassing op het volgende van Microsoft
+* updates,
+* supplementen,
+* op internet gebaseerde services en
+* productondersteuning
+voor deze software, tenzij bij deze onderdelen andere bepalingen worden meegeleverd.  In dat geval gelden de meegeleverde bepalingen.
+DOOR DE SOFTWARE TE GEBRUIKEN, GAAT U AKKOORD MET DEZE BEPALINGEN.  ALS U NIET AKKOORD GAAT MET DE BEPALINGEN, MAG U DE SOFTWARE NIET GEBRUIKEN.
+Als u zich houdt aan de bepalingen en voorwaarden van deze overeenkomst, hebt u de onderstaande rechten.
+1. INSTALLATIE- EN GEBRUIKSRECHTEN.  U mag een willekeurig aantal exemplaren van de software installeren en gebruiken op uw apparaten.
+2. BEREIK VAN LICENTIE.  De software wordt niet verkocht, maar in licentie gegeven.  Deze overeenkomst verleent u slechts bepaalde rechten om de software te gebruiken.  Microsoft behoudt zich alle andere rechten voor.  U mag de software alleen gebruiken zoals expliciet wordt vermeld in deze overeenkomst, tenzij het toepasselijke recht u meer rechten verleent ondanks deze beperking.  U moet zich houden aan deze technische beperkingen in de software waardoor u deze alleen op bepaalde manieren kunt gebruiken.  Het is niet toegestaan
+* de technische beperkingen in de software te omzeilen;
+* de software te onderwerpen aan reverse-engineering, te decompileren of disassembleren, tenzij en alleen voor zover dit, ondanks deze beperking, uitdrukkelijk is toegestaan op grond van toepasselijk dwingend recht;
+* meer kopieën te maken van de software dan is vermeld in deze overeenkomst of, ondanks deze beperking, is toegestaan op grond van toepasselijk dwingend recht;
+* de software te publiceren zodat anderen deze kunnen kopiëren;
+* de software te verhuren, in lease te geven of uit te lenen;
+* de software of deze overeenkomst over te dragen aan enige derde partij; of
+* de software te gebruiken voor commerciële diensten voor het verzorgen van een host-functie voor software.
+3. RESERVEKOPIE.  U mag één reservekopie maken van de software.  U mag deze reservekopie alleen gebruiken om de software opnieuw te installeren.
+4. DOCUMENTATIE.  Iedereen die geldige toegang heeft tot uw computer of het interne netwerk mag de documentatie kopiëren en gebruiken voor interne referentiedoeleinden.
+5. EXPORTBEPERKINGEN.  Op de software is de Amerikaanse exportwetgeving van toepassing.  U moet zich houden aan alle nationale en internationale exportwetten en -regels die van toepassing zijn op de software.  Bij deze wetten zijn tevens inbegrepen beperkingen op bestemmingen, eindgebruikers en eindgebruik.  Zie www.microsoft.com/exporting/ voor meer informatie.
+6. ONDERSTEUNINGSSERVICES.  De Software wordt in de huidige staat verstrekt, en wij zijn dan ook niet gehouden tot het leveren van ondersteuningsservices voor de Software.
+7. VOLLEDIGE OVEREENKOMST.  Deze overeenkomst en de bepalingen voor supplementenen, updates, op internet gebaseerde services en productondersteuningsservices die u gebruikt, vormen de volledige overeenkomst voor de software en productondersteuningsservices.
+8. TOEPASSELIJK RECHT.
+a. Verenigde Staten.  Als u de software hebt verkregen in de Verenigde Staten, wordt de interpretatie van deze overeenkomst beheerst door het recht van de staat Washington en geldt het recht van de staat Washington voor tekortkomingen in de nakoming van de overeenkomst.  Het recht van de staat waar u woont geldt voor alle andere claims, met inbegrip van claims voortvloeiend uit consumentenbeschermingswetgeving, mededingingswetgeving en onrechtmatige daad.
+b. Buiten de Verenigde Staten.  Als u de software hebt verkregen in een ander land, wordt de overeenkomst beheerst door het recht van het land waar u woont.
+9. JURIDISCH EFFECT.  In deze overeenkomst worden bepaalde rechten beschreven.  Het is mogelijk dat u beschikt over andere rechten onder het recht van uw land.  Daarnaast is het mogelijk dat u beschikt over rechten met betrekking tot degene bij wie u de software hebt verkregen.  Deze overeenkomst vormt geen wijziging van uw rechten onder het recht van uw land als dit in uw land niet is toegestaan.
+10. AFWIJZING GARANTIE.  DE SOFTWARE WORDT IN DE HUIDIGE STAAT IN LICENTIE GEGEVEN.  U GEBRUIKT DEZE OP EIGEN RISICO.  MICROSOFT WIJST ALLE GARANTIES OF VOORWAARDEN VAN DE HAND.  HET IS MOGELIJK DAT U AANVULLENDE CONSUMENTENRECHTEN HEBT IN UW RECHTSGEBIED WAARIN DEZE OVEREENKOMST GEEN WIJZIGINGEN KAN AANBRENGEN.  VOOR ZOVER IS TOEGESTAAN OP GROND VAN HET RECHT VAN UW LAND, WIJST MICROSOFT DE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN HET NIET-INBREUKMAKEND KARAKTER VAN DE SOFTWARE AF.
+11. BEPERKING EN UITSLUITING VAN VERHAAL EN SCHADEVERGOEDING.  U KUNT BIJ MICROSOFT EN HAAR LEVERANCIERS ALLEEN DIRECTE SCHADE VERHALEN TOT EEN BEDRAG VAN US $ 5,00.  U KUNT GEEN ANDERE SCHADE VERHALEN, MET INBEGRIP VAN GEVOLGSCHADE, SCHADE DOOR WINSTDERVING, SPECIALE, INDIRECTE OF INCIDENTELE SCHADE.
+Deze beperking geldt voor
+* alles met betrekking tot de software, services, inhoud (inclusief code) van internetsites van derden of programma's van derden en
+* claims voor tekortkomingen in de nakoming van de overeenkomst, garantie of voorwaarden, risicoaansprakelijkheid, nalatigheid of andere onrechtmatige daad voor zover dit is toegestaan op grond van toepasselijk recht.
+De beperking geldt zelfs als Microsoft op de hoogte was of op de hoogte had moeten zijn van de mogelijkheid van dergelijke schade.  Het is mogelijk dat de bovengenoemde beperkingen of uitsluitingen niet voor u gelden omdat in uw land de uitsluiting of beperking van incidentele schade, gevolgschade of andere schade niet is toegestaan.
+MICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any Microsoft
+* updates,
+* supplements,
+* Internet-based services, and 
+* support services
+for this software, unless other terms accompany those items.  If so, those terms apply.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2. SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  Microsoft reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+* work around any technical limitations in the software;
+* reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+* publish the software for others to copy;
+* rent, lease or lend the software;
+* transfer the software or this agreement to any third party; or
+* use the software for commercial software hosting services.
+3. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
+4. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is “as is,” we may not provide support services for it.
+7. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
+b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED “AS-IS.”  YOU BEAR THE RISK OF USING IT.  MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.  YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+* anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+* claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
+PADMICROSOFT SOFTWARE LICENSE TERMS
+MICROSOFT DIRECTX END USER RUNTIME
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any. 

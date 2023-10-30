@@ -1,0 +1,889 @@
+i diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+CONTRATTO DI LICENZA PER IL SOFTWARE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Le presenti condizioni di licenza costituiscono il contratto tra Microsoft Corporation (o, in base al luogo di residenza del licenziatario, una delle sue consociate) e il licenziatario. Il licenziatario deve leggerle con attenzione. Le presenti condizioni si applicano al software Microsoft sopra indicato, inclusi gli eventuali supporti di memorizzazione sui quali è stato ricevuto. Le presenti condizioni si applicano inoltre a:
+* aggiornamenti
+* supplementi
+* servizi basati su Internet
+* servizi di supporto tecnico
+relativi ai predetti software Microsoft, a meno che siano accompagnati da specifiche condizioni. In tal caso queste ultime condizioni prevalgono su quelle del presente contratto.
+UTILIZZANDO IL SOFTWARE, IL LICENZIATARIO ACCETTA LE PRESENTI CONDIZIONI. QUALORA IL LICENZIATARIO NON ACCETTI LE PRESENTI CONDIZIONI, NON POTRÀ UTILIZZARE IL SOFTWARE.
+Qualora il licenziatario si attenga alle condizioni del presente contratto, disporrà dei diritti di seguito indicati.
+1. INSTALLAZIONE E DIRITTI SULL’UTILIZZO. Il licenziatario potrà installare e utilizzare un numero qualsiasi di copie del software sui dispositivi del licenziatario.
+2. AMBITO DI VALIDITÀ DELLA LICENZA. Il Software non viene venduto, ma è concesso in licenza. Il presente contratto concede al licenziatario solamente alcuni diritti di utilizzo del software. Microsoft si riserva tutti gli altri diritti. Nel limite massimo consentito dalla legge applicabile il licenziatario potrà utilizzare il software esclusivamente nei modi espressamente consentiti nel presente contratto. A tal fine, il licenziatario dovrà attenersi a qualsiasi limitazione tecnica presente nel software che gli consenta di utilizzarlo solo in determinati modi. Il licenziatario non potrà
+* aggirare le limitazioni tecniche presenti nel software,
+* decodificare, decompilare o disassemblare il software, fatta eccezione per i casi in cui tali attività siano espressamente consentite dalla legge applicabile, nonostante questa limitazione,
+* effettuare più copie del software di quante specificate nel presente contratto o consentite dalla legge applicabile, nonostante questa limitazione,
+* pubblicare il software per consentire ad altri di duplicarlo,
+* concedere il software in locazione, leasing o prestito,
+* trasferire il software o il presente contratto a terzi oppure
+* utilizzare il software per fornire hosting di servizi commerciali.
+3. COPIA DI BACKUP. Il licenziatario potrà effettuare una copia di backup del software. Il licenziatario potrà utilizzare tale copia esclusivamente per reinstallare il software.
+4. DOCUMENTAZIONE. Qualsiasi persona che ha un accesso valido al computer o alla rete interna del licenziatario potrà duplicare e utilizzare la documentazione per fini di riferimento interno.
+5. RESTRIZIONI ALL’ESPORTAZIONE. Il software è soggetto alle leggi e alle disposizione vigenti negli Stati Uniti in materia di controllo dell’esportazione. Il licenziatario dovrà attenersi a tutte le leggi e le disposizioni locali e internazionali applicabili al software in materia di controllo delle esportazioni. Queste leggi includono limitazioni circa le destinazioni, gli utenti finali e l’utilizzo finale. Per ulteriori informazioni, il licenziatario potrà visitare la pagina www.microsoft.com/exporting.
+6. SERVIZI DI SUPPORTO TECNICO. Poiché questo software è fornito “così com’è”, non è prevista la fornitura di servizi di supporto tecnico da parte di Microsoft.
+7. INTERO ACCORDO. Il presente accordo e le condizioni che disciplinano l’utilizzo dei i supplementi, degli aggiornamenti, dei servizi basato su Internet e dei servizi di supporto tecnico utilizzati dal licenziatario costituiscono l’intero accordo relativo al software ed ai servizi di supporto tecnico.
+8. LEGGE APPLICABILE.
+a. Stati Uniti. Qualora il software sia stato acquistato negli Stati Uniti, il presente contratto sarà disciplinato e interpretato esclusivamente in base alla legge dello Stato di Washington e tale legge si applicherà alle controversie aventi ad oggetto le eventuali violazioni del contratto stesso. Tutte le altri controversie, incluse quelle aventi ad oggetto al violazione delle leggi che disciplinano la tutela dei consumatori, la concorrenza sleale e l'illecito extracontrattuale, saranno disciplinate dalla legge dello stato di residenza del licenziatario.
+b. Al di fuori degli Stati Uniti. Qualora il licenziatario abbia acquistato il software in qualsivoglia altro Paese, il presente contratto sarà disciplinato dalla legge di tale Stato.
+9. EFFETTI GIURIDICI. Con il presente contratto vengono concessi alcuni diritti. La legge del Paese di residenza del licenziatario potrebbe riconoscere al licenziatario stesso ulteriori diritti. Il licenziatario potrebbe, inoltre, avere ulteriori diritti direttamente nei confronti del soggetto da cui ha acquistato il software. Il presente contratto non modifica i diritti del licenziatario che la legge del suo Paese di residenza non consente di limitare e/o modificare.
+10. ESCLUSIONE DI GARANZIE. IL SOFTWARE È CONCESSO IN LICENZA “COSÌ COM’È”. IL LICENZIATARIO ASSUME OGNI RISCHIO DERIVANTE DALL’UTILIZZO DEL SOFTWARE. MICROSOFT NON RICONOSCE GARANZIE O CONDIZIONI ESPLICITE. IL PRESENTE CONTRATTO NON MODIFICA GLI EVENTUALI DIRITTI DEI CONSUMATORI RICONOSCIUTI AL LICENZIATARIO DALLA LEGGE LOCALE. NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, MICROSOFT ESCLUDE EVENTUALI GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE DEI DIRITTI ALTRUI.
+11. LIMITAZIONE DI RESPONSABILITÀ ED ESCLUSIONE DI DANNI. IL LICENZIATARIO AVRÀ DIRITTO AD OTTENERE DA MICROSOFT E DAI SUOI FORNITORI SOLO IL RISARCIMENTO PER I DANNI DIRETTI NEL LIMITE DI CINQUE DOLLARI (U.S. $5). IL LICENZIATARIO NON AVRÀ DIRITTO AD OTTENERE IL RISARCIMENTO PER EVENTUALI ALTRI DANNI, INCLUSI I DANNI CONSEQUENZIALI, SPECIALI, INDIRETTI O ACCIDENTALI O PER MANCATO GUADAGNO.
+Questa limitazione si applica a
+* qualsiasi questione relativa al software, ai servizi, al contenuto (incluso il codice) sui siti Internet o i programmi di terzi e
+* controversie relative a violazioni del contratto, a violazioni di garanzia o condizioni, a responsabilità oggettiva, negligenza o altra colpa nella misura massima consentita dalla legge applicabile.
+Tale limitazione si applica anche nel caso in cui Microsoft era informata o avrebbe dovuto essere informata della possibilità del verificarsi di tali danni. La limitazione o l’esclusione indicata sopra potrebbe non essere applicabile nel caso in cui le leggi dello stato di residenza del licenziatario non consentano le esclusioni o limitazioni di responsabilità per danni incidentali, consequenziali o altri danni. 
+ƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADƒ}ƒCƒNƒƒ\ƒtƒg ƒ\ƒtƒgƒEƒFƒA ƒ‰ƒCƒZƒ“ƒXğ€
+MICROSOFT DIRECTX END USER RUNTIME
+–{ƒ}ƒCƒNƒƒ\ƒtƒg ƒ‰ƒCƒZƒ“ƒXğ€ (ˆÈ‰ºu–{ƒ‰ƒCƒZƒ“ƒXğ€v‚Æ‚¢‚¢‚Ü‚·)‚ÍA‚¨‹q—l‚ÆMicrosoft CorporationiuˆÈ‰ºuƒ}ƒCƒNƒƒ\ƒtƒgv‚Æ‚¢‚¢‚Ü‚·j‚Æ‚ÌŒ_–ñ‚ğ\¬‚µ‚Ü‚·BˆÈ‰º‚Ìğ€‚ğ’ˆÓ‚µ‚Ä‚¨“Ç‚İ‚­‚¾‚³‚¢B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAã‹L‚Ìƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚Ñƒ\ƒtƒgƒEƒFƒA‚ª‹L˜^‚³‚ê‚½”}‘Ì (ˆÈ‰º‘Ì‚µ‚Äu–{ƒ\ƒtƒgƒEƒFƒAv‚Æ‚¢‚¢‚Ü‚·) ‚É“K—p‚³‚ê‚Ü‚·B‚Ü‚½A–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍAˆÈ‰º‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚ÉŠÖ˜A‚·‚éƒ}ƒCƒNƒƒ\ƒtƒg»•i‚ÉA•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚È‚¢ê‡‚É‚ÍA‚±‚ê‚ç‚Ì»•i‚É‚à“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* XVƒvƒƒOƒ‰ƒ€
+* ’Ç‰Á•¨
+* ƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX‚ÌƒT[ƒrƒX
+* ƒTƒ|[ƒg ƒT[ƒrƒX
+‚È‚¨A‚±‚ê‚ç‚Ì»•i‚É•Ê“rŒÅ—L‚Ìƒ‰ƒCƒZƒ“ƒXğ€‚ª•t‘®‚µ‚Ä‚¢‚éê‡‚É‚ÍA“–ŠYƒ‰ƒCƒZƒ“ƒXğ€‚ª“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚É‚æ‚èA‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚É“¯ˆÓ‚³‚ê‚È‚¢ê‡A–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
+‚¨‹q—l‚ª–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ…ç‚·‚é‚±‚Æ‚ğğŒ‚Æ‚µ‚ÄA‚¨‹q—l‚É‚ÍˆÈ‰º‚ª‹–‘ø‚³‚ê‚Ü‚·B
+1. ƒCƒ“ƒXƒg[ƒ‹‚¨‚æ‚Ñg—p‚ÉŠÖ‚·‚éŒ —˜B‚¨‹q—l‚Íƒ\ƒtƒgƒEƒFƒA‚Ì”CˆÓ‚Ì”‚Ì•¡»‚ğƒfƒoƒCƒXB
+2. ƒ‰ƒCƒZƒ“ƒX‚Ì“K—p”ÍˆÍB–{ƒ\ƒtƒgƒEƒFƒA‚Í‹–‘ø‚³‚ê‚é‚à‚Ì‚Å‚ ‚èA”Ì”„‚³‚ê‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚éŒÀ’è“I‚ÈŒ —˜‚ğ•t—^‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‚»‚Ì‘¼‚ÌŒ —˜‚ğ‚·‚×‚Ä—¯•Û‚µ‚Ü‚·B“K—p‚³‚ê‚é–@—ß‚É‚æ‚è–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ’´‚¦‚éŒ —˜‚ª•t—^‚³‚ê‚éê‡‚ğœ‚«A‚¨‹q—l‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚Å–¾¦“I‚É‹–‰Â‚³‚ê‚½•û–@‚Å‚Ì‚İ–{ƒ\ƒtƒgƒEƒFƒA‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É‘g‚İ‚Ü‚ê‚½g—p•û–@‚ğ§ŒÀ‚·‚é‹Zp“I§ŒÀ‚É]‚¤‚à‚Ì‚Æ‚µ‚Ü‚·BˆÈ‰º‚Ìsˆ×‚ÍˆêØ‹Ö~‚³‚ê‚Ä‚¢‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ì‹Zp“I‚È§ŒÀ‚ğ‰ñ”ğ‚·‚é•û–@‚Å—˜—p‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŠƒo[ƒXƒGƒ“ƒWƒjƒAƒŠƒ“ƒOA‹tƒRƒ“ƒpƒCƒ‹A‚Ü‚½‚Í‹tƒAƒZƒ“ƒuƒ‹‚·‚é‚±‚Æ
+* –{ƒ‰ƒCƒZƒ“ƒXğ€‚Å‹K’è‚³‚ê‚½ˆÈã‚Ì”‚Ì–{ƒ\ƒtƒgƒEƒFƒA‚Ì•¡»‚ğì¬‚·‚é‚±‚Æ
+* ‘æOÒ‚ª•¡»‚Å‚«‚é‚æ‚¤‚É–{ƒ\ƒtƒgƒEƒFƒA‚ğŒöŠJ‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğƒŒƒ“ƒ^ƒ‹AƒŠ[ƒXA‚Ü‚½‚Í‘İ—^‚·‚é‚±‚Æ
+* –{ƒ\ƒtƒgƒEƒFƒA‚Ü‚½‚Í–{ƒ‰ƒCƒZƒ“ƒXğ€‚ğ‘æOÒ‚É÷“n‚·‚é‚±‚Æ 
+* –{ƒ\ƒtƒgƒEƒFƒA‚ğ¤—pƒzƒXƒeƒBƒ“ƒO ƒT[ƒrƒX‚Åg—p‚·‚é‚±‚Æ
+3. ƒoƒbƒNƒAƒbƒv—p•¡»B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ÌƒoƒbƒNƒAƒbƒv—p•¡»‚ğ 1 •”ì¬‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚ğÄƒCƒ“ƒXƒg[ƒ‹‚·‚é‚½‚ß‚É‚Ì‚İ‚»‚Ì•¡»‚ğg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+4. ƒhƒLƒ…ƒƒ“ƒgB‚¨‹q—l‚Ì“à•”ƒlƒbƒgƒ[ƒN‚ğ³‹K‚ÉƒAƒNƒZƒX‚Å‚«‚é•û‚ÍA“à•”“I‚ÈQÆ–Ú“I‚ÉŒÀ‚èAƒhƒLƒ…ƒƒ“ƒg‚ğ•¡»‚µ‚Äg—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+5. —Ao‹K§B–{ƒ\ƒtƒgƒEƒFƒA‚ÍƒAƒƒŠƒJ‡O‘‚¨‚æ‚Ñ“ú–{‘‚Ì—Ao‚ÉŠÖ‚·‚é‹K§‚Ì‘ÎÛ‚Æ‚È‚è‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚É“K—p‚³‚ê‚é‚·‚×‚Ä‚Ì‘“à–@‚¨‚æ‚Ñ‘Û–@ (—Ao‘ÎÛ‘AƒGƒ“ƒhƒ†[ƒU[‚¨‚æ‚ÑƒGƒ“ƒhƒ†[ƒU[‚É‚æ‚ég—p‚ÉŠÖ‚·‚é§ŒÀ‚ğŠÜ‚İ‚Ü‚·) ‚ğ…ç‚·‚é‚±‚Æ‚É“¯ˆÓ‚³‚ê‚½‚à‚Ì‚Æ‚µ‚Ü‚·BÚ×‚É‚Â‚¢‚Ä‚Í  www.microsoft.com/japan/exporting ‚ğ‚²QÆ‚­‚¾‚³‚¢B
+6. ƒTƒ|[ƒg ƒT[ƒrƒXB–{ƒ\ƒtƒgƒEƒFƒA‚Í‰½‚ç•ÛØ‚Ì‚È‚¢Œ»ó—Lp‚Ì‚Ü‚Üàêár‚ğ–â‚í‚È‚¢ğŒ‚Å’ñ‹Ÿ‚³‚ê‚é‚½‚ßAƒTƒ|[ƒg ƒT[ƒrƒX‚Í’ñ‹Ÿ‚¢‚½‚µ‚Ü‚¹‚ñB
+7. Š®‘S‚È‡ˆÓB–{ƒ‰ƒCƒZƒ“ƒXğ€A‚È‚ç‚Ñ‚É’Ç‰Á•¨AXVƒvƒƒOƒ‰ƒ€AƒCƒ“ƒ^[ƒlƒbƒgƒx[ƒX ƒT[ƒrƒXA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚ÉŠÖ‚·‚ég—pğŒ‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚¨‚æ‚ÑƒTƒ|[ƒg ƒT[ƒrƒX‚É‚Â‚¢‚Ä‚Ì‚¨‹q—l‚Æƒ}ƒCƒNƒƒ\ƒtƒg‚Æ‚ÌŠÔ‚ÌŠ®‘S‚È‚é‡ˆÓ‚Å‚·B
+8. €‹’–@B
+a. “ú–{B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘“à‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“ú–{–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+b. •Ä‘B‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğƒAƒƒŠƒJ‡O‘“à‚Å“üè‚³‚ê‚½ê‡A’ïG–@‚ÉŠÖ‚í‚ç‚¸A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Ì‰ğß‚¨‚æ‚ÑŒ_–ñˆá”½‚Ö‚Ìå’£‚ÍAƒAƒƒŠƒJ‡O‘ƒƒVƒ“ƒgƒ“B–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BÁ”ïÒ•ÛŒì–@AŒö³æˆø–@A‚¨‚æ‚Ñˆá–@sˆ×‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ÉŒÀ’è‚³‚ê‚È‚¢‘¼‚Ìå’£‚É‚Â‚¢‚Ä‚ÍA‚¨‹q—l‚ªŠİ‚·‚é’nˆæ‚Ì–@—¥‚É€‹’‚µ‚Ü‚·B
+c. “ú–{‹y‚Ñ•Ä‘ˆÈŠOB‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğ“ú–{‘‹y‚ÑƒAƒƒŠƒJ‡O‘ˆÈŠO‚Ì‘‚Å“üè‚³‚ê‚½ê‡A–{ƒ‰ƒCƒZƒ“ƒXğ€‚Í“K—p‚³‚ê‚é’nˆæ–@‚É€‹’‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+9. –@“IŒø—ÍB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA“Á’è‚Ì–@“I‚ÈŒ —˜‚ğ‹K’è‚µ‚½‚à‚Ì‚Å‚·B‚¨‹q—l‚ÍA‘‚É‚æ‚Á‚Ä‚ÍA‚»‚Ì‘¼‚ÌŒ —˜‚ğ—L‚·‚éê‡‚ª‚ ‚è‚Ü‚·B‚Ü‚½A‚¨‹q—l‚ª–{ƒ\ƒtƒgƒEƒFƒA‚ğæ“¾‚³‚ê‚½‘æOÒ‚ÉŠÖ‚·‚éŒ —˜‚ğ—L‚·‚éê‡‚à‚ ‚è‚Ü‚·B–{ƒ‰ƒCƒZƒ“ƒXğ€‚ÍA‚¨‹q—l‚Ì‘‚Ì–@—¥‚ª‚»‚Ì–@—¥‚ÉŠî‚Ã‚­Œ —˜‚Ì•ÏX‚ğ‹–—e‚µ‚È‚¢ê‡A‚»‚ê‚ç‚ÌŒ —˜‚ğ•ÏX‚µ‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+10. –ÆÓB–{ƒ\ƒtƒgƒEƒFƒA‚Í "Œ»ó‚Ì‚Ü‚Ü" ƒ‰ƒCƒZƒ“ƒX‹Ÿ—^‚³‚ê‚Ü‚·B‚¨‹q—l‚ÍA–{ƒ\ƒtƒgƒEƒFƒA‚Ìg—p‚ÉŠÖ‚·‚éƒŠƒXƒN‚ğ•‰‚¤‚à‚Ì‚Æ‚µ‚Ü‚·Bƒ}ƒCƒNƒƒ\ƒtƒg‚Í‘¼‚Ì–¾¦“I‚È•ÛØ‚ÍˆêØ‚¢‚½‚µ‚Ü‚¹‚ñB–{ƒ‰ƒCƒZƒ“ƒXğ€‚ª•ÏX‚Å‚«‚È‚¢‚¨‹q—l‚Ì’nˆæ‚Ì–@—ß‚É‚æ‚é’Ç‰Á‚ÌÁ”ïÒ‚ÌŒ —˜‚ª‘¶İ‚·‚éê‡‚ª‚ ‚è‚Ü‚·B–@—¥ã‹–—e‚³‚ê‚éÅ‘åŒÀ‚É‚¨‚¢‚ÄA¤•i«A“Á’è–Ú“I‚É‘Î‚·‚é“K‡«A”ñNŠQ«‚ÉŠÖ‚·‚é–Ù¦‚Ì•ÛØ‚É‚Â‚¢‚Ä‚ÍˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+11. ‹~Ïè’i‚¨‚æ‚ÑÓ”C‚Ì§ŒÀ‚¨‚æ‚ÑœŠOBƒ}ƒCƒNƒƒ\ƒtƒg‚¨‚æ‚Ñ‚»‚Ì‹Ÿ‹‹Ò‚ÌÓ”C‚ÍA700 ‰~‚ğãŒÀ‚Æ‚·‚é’¼Ú‘¹ŠQ‚ÉŒÀ’è‚³‚ê‚Ü‚·B‚»‚Ì‘¼‚Ì‘¹ŠQ (”h¶“I‘¹ŠQAˆí¸—˜‰vA“Á•Ê‘¹ŠQAŠÔÚ‘¹ŠQA‚¨‚æ‚Ñ•t“I‘¹ŠQ‚ğŠÜ‚İ‚Ü‚·‚ª‚±‚ê‚ç‚ÉŒÀ’è‚³‚ê‚Ü‚¹‚ñ) ‚ÉŠÖ‚µ‚Ä‚ÍAˆêØÓ”C‚ğ•‰‚¢‚Ü‚¹‚ñB
+‚±‚Ì§ŒÀ‚ÍAˆÈ‰º‚É“K—p‚³‚ê‚é‚à‚Ì‚Æ‚µ‚Ü‚·B
+* –{ƒ\ƒtƒgƒEƒFƒAAƒT[ƒrƒXA‘æOÒ‚ÌƒCƒ“ƒ^[ƒlƒbƒg‚ÌƒTƒCƒgã‚ÌƒRƒ“ƒeƒ“ƒc (ƒR[ƒh‚ğŠÜ‚İ‚Ü‚·) ‚Ü‚½‚Í‘æOÒ‚ÌƒvƒƒOƒ‰ƒ€‚ÉŠÖ˜A‚µ‚½–€
+* Œ_–ñˆá”½A•ÛØˆá”½A–³‰ß¸Ó”CA‰ß¸‚Ü‚½‚Í•s–@sˆ× (“K—p–@‚Å‹–‰Â‚³‚ê‚Ä‚¢‚é”ÍˆÍ‚É‚¨‚¢‚Ä)
+ƒ}ƒCƒNƒƒ\ƒtƒg‚ª‚±‚Ì‚æ‚¤‚È‘¹ŠQ‚Ì‰Â”\«‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚½ê‡‚Ü‚½‚Í’m‚è“¾‚½ê‡‚àA‚±‚Ì§ŒÀ‚Í“K—p‚³‚ê‚Ü‚·Bã‹L‚Ì§ŒÀ‚Ü‚½‚ÍœŠO‚ÍAˆê•”‚Ì‘‚Å‚Í•t“IA”h¶“IA‚¨‚æ‚Ñ‚»‚Ì‘¼‚Ì‘¹ŠQ‚Ì–ÆÓA‚Ü‚½‚ÍÓ”C‚Ì§ŒÀ‚ğ”F‚ß‚È‚¢‚½‚ßA“K—p‚³‚ê‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B
+PADMICROSOFT ¼ÒÇÁÆ®¿ş¾î »ç¿ë±Ç °è¾à¼­
+MICROSOFT DIRECTX END USER RUNTIME
+º» »ç¿ë±Ç °è¾àÀº Microsoft Corporation(¶Ç´Â °ÅÁÖ Áö¿ª¿¡ µû¶ó °è¿­»ç Áß ÇÏ³ª)°ú ±ÍÇÏ °£¿¡ Ã¼°áµÇ´Â °è¾àÀÔ´Ï´Ù. ÀĞ¾î ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù. º» »ç¿ë±Ç °è¾à¼­´Â À§¿¡ ¸í½ÃµÈ ¼ÒÇÁÆ®¿ş¾î ¹× º» ¼ÒÇÁÆ®¿ş¾î°¡ Æ÷ÇÔµÈ ¸ÅÃ¼°¡ ÀÖ´Â °æ¿ì ÇØ´ç ¸ÅÃ¼¿¡ Àû¿ëµË´Ï´Ù. º» °è¾àÀº ÇØ´ç Ç°¸ñ¿¡ º°µµÀÇ ¾àÁ¤ÀÌ ÀÖÁö ¾Ê´Â ÇÑ, º» ¼ÒÇÁÆ®¿ş¾î¿¡ ´ëÇÑ
+* ¾÷µ¥ÀÌÆ®, 
+* Ãß°¡ ±¸¼º ¿ä¼Ò, 
+* ÀÎÅÍ³İ ±â¹İ ¼­ºñ½º ¹×
+* Áö¿ø ¼­ºñ½º 
+¿Í °°Àº Microsoft ±¸¼º ¿ä¼Ò¿¡µµ Àû¿ëµË´Ï´Ù. º°µµÀÇ ¾àÁ¤ÀÌ ÀÖ´Â °æ¿ì, ÇØ´ç ¾àÁ¤ÀÌ Àû¿ëµË´Ï´Ù.
+ÀÌ ¼ÒÇÁÆ®¿ş¾î¸¦ »ç¿ëÇÔÀ¸·Î½á ±ÍÇÏ´Â ¾Æ·¡ÀÇ Á¶°Çµé¿¡ µ¿ÀÇÇÏ°Ô µË´Ï´Ù. µ¿ÀÇÇÏÁö ¾ÊÀ» °æ¿ì¿¡´Â ¼ÒÇÁÆ®¿ş¾î¸¦ »ç¿ëÇÏÁö ¸¶½Ê½Ã¿À.
+º» »ç¿ë±Ç °è¾àÀ» ÁØ¼öÇÏ´Â °æ¿ì ¾Æ·¡¿Í °°Àº ±ÇÇÑÀ» Çà»çÇÒ ¼ö ÀÖ½À´Ï´Ù.
+1. ¼³Ä¡ ¹× »ç¿ë ±ÇÇÑ. ±ÍÇÏ´Â ¼ÒÇÁÆ®¿ş¾î º¹»çº»À» ¼ö·®¿¡ °ü°è¾øÀÌ ÀåÄ¡¿¡ ¼³Ä¡ÇÏ¿© »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.
+2. »ç¿ë±ÇÀÇ ¹üÀ§. º» ¼ÒÇÁÆ®¿ş¾î´Â ÆÇ¸ÅµÇ´Â °ÍÀÌ ¾Æ´Ï¶ó ±× »ç¿ëÀÌ Çã¿©µÇ´Â °ÍÀÔ´Ï´Ù. º» °è¾àÀº ±ÍÇÏ¿¡°Ô ¼ÒÇÁÆ®¿ş¾î¸¦ »ç¿ëÇÒ ¼ö ÀÖ´Â ±ÇÇÑÀ» ºÎ¿©ÇÕ´Ï´Ù. ±âÅ¸ ¸ğµç ±ÇÇÑÀº Microsoft°¡ º¸À¯ÇÕ´Ï´Ù. ÀÌ·¯ÇÑ Á¦ÇÑ°ú °ü°è¾øÀÌ ÇØ´ç ¹ı±Ô°¡ ±ÍÇÏ¿¡°Ô ´õ ¸¹Àº ±ÇÇÑÀ» ºÎ¿©ÇÏÁö ¾Ê´Â ÇÑ, ±ÍÇÏ´Â º» °è¾à¼­¿¡¼­ ¸í½ÃÀûÀ¸·Î Çã¿ëµÇ´Â Á¶°Ç¿¡ ÇÑÇØ¼­¸¸ ¼ÒÇÁÆ®¿ş¾î¸¦ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù. ±×·¸°Ô ÇÏ´Â °æ¿ì ±ÍÇÏ´Â Æ¯Á¤ ¹æ½ÄÀ¸·Î¸¸ »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÏ´Â ¼ÒÇÁÆ®¿ş¾îÀÇ ¸ğµç ±â¼úÀû Á¦ÇÑ »çÇ×À» ÁØ¼öÇØ¾ß ÇÕ´Ï´Ù. ´ÙÀ½°ú °°Àº ÇàÀ§´Â Çã¿ëµÇÁö ¾Ê½À´Ï´Ù.
+* ¼ÒÇÁÆ®¿ş¾îÀÇ ±â¼úÀû Á¦ÇÑ »çÇ×À» À§¹İÇÏ´Â ÇàÀ§;
+* ÇØ´ç ¹ı±Ô¿¡¼­ ¸í½ÃÀûÀ¸·Î Çã¿ëÇÏ´Â °æ¿ì¸¦ Á¦¿ÜÇÑ ¼ÒÇÁÆ®¿ş¾îÀÇ ¸®¹ö½º ¿£Áö´Ï¾î¸µ, µğÄÄÆÄÀÏ ¶Ç´Â µğ½º¾î¼Àºí ÀÛ¾÷;
+* ÀÌ·¯ÇÑ Á¦ÇÑ ±ÔÁ¤ÀÌ ÀÖÀ½¿¡µµ ºÒ±¸ÇÏ°í º» °è¾à¼­¿¡¼­ ¸í½ÃµÈ °Íº¸´Ù ¶Ç´Â ÇØ´ç ¹ı±Ô¿¡¼­ Çã¿ëÇÏ´Â °Íº¸´Ù ´õ ¸¹Àº ¼öÀÇ ¼ÒÇÁÆ®¿ş¾î º¹»çº»À» ¸¸µå´Â ÇàÀ§;
+* ´Ù¸¥ »ç¶÷ÀÌ ¼ÒÇÁÆ®¿ş¾î¸¦ º¹»çÇÒ ¼ö ÀÖµµ·Ï °Ô½ÃÇÏ´Â ÇàÀ§;
+* ¼ÒÇÁÆ®¿ş¾îÀÇ ÀÓ´ë, ´ë¿© ¶Ç´Â ´ëºÎ;
+* ¼ÒÇÁÆ®¿ş¾î³ª º» °è¾à¼­¸¦ Á¦3ÀÚ¿¡°Ô ¾çµµ; ¶Ç´Â
+* »ó¾÷¿ë ¼ÒÇÁÆ®¿ş¾î È£½ºÆÃ ¼­ºñ½º¿¡ º» ¼ÒÇÁÆ®¿ş¾î¸¦ »ç¿ëÇÏ´Â ÇàÀ§.
+3. ¹é¾÷ º¹»çº». ÇÑ °³ÀÇ ¼ÒÇÁÆ®¿ş¾î ¹é¾÷ º¹»çº»À» ¸¸µé ¼ö ÀÖ½À´Ï´Ù. ¹é¾÷ º¹»çº»Àº ¼ÒÇÁÆ®¿ş¾î¸¦ ´Ù½Ã ¼³Ä¡ÇÏ´Â °æ¿ì¿¡ ÇÑÇØ »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.
+4. ¼³¸í¼­. ±ÍÇÏÀÇ ÄÄÇ»ÅÍ ¶Ç´Â ³»ºÎ ³×Æ®¿öÅ©¿¡ À¯È¿ÇÑ ¾×¼¼½º ±ÇÇÑÀÌ ÀÖ´Â »ç¿ëÀÚ´Â ³»ºÎÀûÀÎ Âü°í ¸ñÀûÀ¸·Î ¼³¸í¼­¸¦ º¹»ç ¹× »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù.
+5. ¼öÃâ Á¦ÇÑ. ¼ÒÇÁÆ®¿ş¾î´Â ¹Ì±¹ ¼öÃâ ¹ı±Ô ¹× ±ÔÁ¤ÀÇ Àû¿ëÀ» ¹Ş½À´Ï´Ù. ±ÍÇÏ´Â ¼ÒÇÁÆ®¿ş¾î¿¡ Àû¿ëµÇ´Â ¸ğµç ±¹³» ¹× ±¹Á¦ ¼öÃâ¹ı ¹× ±ÔÁ¤À» ÁØ¼öÇØ¾ß ÇÕ´Ï´Ù. ÀÌ·¯ÇÑ ¹ı±Ô¿¡´Â ¿ëµµ, ÃÖÁ¾ »ç¿ëÀÚ ¹× ÃÖÁ¾ ¿ëµµ¿¡ ´ëÇÑ Á¦ÇÑÀÌ Æ÷ÇÔµË´Ï´Ù. ÀÚ¼¼ÇÑ »çÇ×Àº www.microsoft.com/exporting À» ÂüÁ¶ÇÏ½Ê½Ã¿À.
+6. Áö¿ø ¼­ºñ½º. ¼ÒÇÁÆ®¿ş¾î´Â "ÀÖ´Â ±×´ë·Î" Á¦°øµÇ¹Ç·Î ÀÌ¿¡ ´ëÇÑ Áö¿ø ¼­ºñ½º´Â Á¦°øÇÏÁö ¾Ê½À´Ï´Ù.
+7. Àü¸é °è¾à. º» °è¾à ¹× ±ÍÇÏ°¡ ÀÌ¿ëÇÏ´Â Ãß°¡ ±¸¼º ¿ä¼Ò, ¾÷µ¥ÀÌÆ®, ÀÎÅÍ³İ ±â¹İ ¼­ºñ½º ¹× Áö¿ø ¼­ºñ½º¿¡ ´ëÇÑ Á¶Ç×Àº ¼ÒÇÁÆ®¿ş¾î ¹× Áö¿ø ¼­ºñ½º¿¡ ´ëÇÑ Àü¸é °è¾àÀÔ´Ï´Ù.
+8. ÁØ°Å¹ı.
+a. ¹Ì±¹. ¼ÒÇÁÆ®¿ş¾î¸¦ ¹Ì±¹¿¡¼­ ±¸ÀÔÇÑ °æ¿ì, ¹ı Á¶Ç×ÀÇ »óÃæ ¿©ºÎ¿¡ °ü°è¾øÀÌ º» °è¾àÀÇ ÇØ¼®Àº ¿ö½ÌÅÏ ÁÖ¹ıÀ» µû¸£¸ç °è¾à À§¹İ¿¡ ´ëÇÑ Ã»±¸ ¹ß»ı ½Ã¿¡µµ ¿ö½ÌÅÏ ÁÖ¹ıÀÌ Àû¿ëµË´Ï´Ù. ¼ÒºñÀÚ º¸È£¹ı, ºÒ°øÁ¤°Å·¡¹ı ¹× ±âÅ¸ ºÒ¹ı ÇàÀ§ °ü·Ã ¹ı±ÔÀÇ Àû¿ëÀ» ¹Ş´Â Ã»±¸°¡ ¹ß»ıÇÑ °æ¿ì ±ÍÇÏ°¡ °ÅÁÖÇÏ°í ÀÖ´Â ÁÖÀÇ ÁÖ¹ıÀÌ Àû¿ëµË´Ï´Ù.
+b. ¹Ì±¹ ¿Ü Áö¿ª. º» »ç¿ë±Ç °è¾à¼­¿¡´Â ´ëÇÑ¹Î±¹ ¹ıÀÌ Àû¿ëµË´Ï´Ù.
+9. ¹ıÀû È¿·Â. º» °è¾àÀº Æ¯Á¤ ¹ıÀû ±Ç¸®¿¡ ´ëÇØ ±â¼úÇÏ°í ÀÖ½À´Ï´Ù. ±ÍÇÏ´Â ±ÍÇÏ°¡ °ÅÁÖÇÏ°í ÀÖ´Â ÁÖ ¶Ç´Â ±¹°¡ÀÇ ¹ı±Ô°¡ º¸ÀåÇÏ´Â ´Ù¸¥ ±Ç¸®¸¦ º¸À¯ÇÒ ¼ö ÀÖ½À´Ï´Ù. ¶ÇÇÑ ±ÍÇÏ´Â ±ÍÇÏ°¡ ¼ÒÇÁÆ®¿ş¾î¸¦ ±¸ÀÔÇÑ È¸»ç¿Í °ü·ÃµÈ ±Ç¸®¸¦ º¸À¯ÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ±ÍÇÏ°¡ °ÅÁÖÇÏ°í ÀÖ´Â ÁÖ ¶Ç´Â ±¹°¡ÀÇ ¹ı¿¡¼­ Çã¿ëÇÏÁö ¾Ê´Â °æ¿ì º» °è¾àÀº ÇØ´ç ÁÖ ¶Ç´Â ±¹°¡ÀÇ ¹ı¿¡¼­ ºÎ¿©ÇÏ´Â ±Ç¸®¸¦ º¯°æÇÏÁö ¾Ê½À´Ï´Ù.
+10. º¸ÁõÀÇ ºÎÀÎ. ¼ÒÇÁÆ®¿ş¾î´Â "ÀÖ´Â ±×´ë·Î" »ç¿ë±ÇÀÌ ºÎ¿©µË´Ï´Ù. ¼ÒÇÁÆ®¿ş¾îÀÇ »ç¿ëÀ¸·Î ¹ß»ıÇÏ´Â À§ÇèÀº ±ÍÇÏÀÇ Ã¥ÀÓÀÔ´Ï´Ù. MICROSOFT´Â ¾î¶°ÇÑ ¸í½ÃÀû º¸Áõ, º¸Àå ¶Ç´Â Á¶°Çµµ Á¦½ÃÇÏÁö ¾Ê½À´Ï´Ù. ±ÍÇÏ´Â ±ÍÇÏ°¡ °ÅÁÖÇÏ´Â Áö¿ªÀÇ ¹ı±Ô¿¡ µû¸¥ Ãß°¡ÀûÀÎ ¼ÒºñÀÚ ±Ç¸®¸¦ º¸À¯ÇÒ ¼ö ÀÖÀ¸¸ç, ÀÌ ±ÇÇÑÀº ÀÌ °è¾àÀ» ÅëÇØ º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù. ±ÍÇÏ°¡ °ÅÁÖÇÏ´Â Áö¿ªÀÇ ¹ı±Ô°¡ Çã¿ëÇÏ´Â ¹üÀ§ ³»¿¡¼­ MICROSOFT´Â »ó¾÷¼º, Æ¯Á¤ ¸ñÀû¿¡ÀÇ ÀûÇÕ¼º ¹× ºñÄ§ÇØ¼º°ú °ü·ÃµÈ ¹¬½ÃÀû º¸ÁõÀ» ¹èÁ¦ÇÕ´Ï´Ù.
+11. ¼ÕÇØ ¹× º¸»óÀÇ Á¦ÇÑ ¹× ¹èÁ¦. ±ÍÇÏ´Â Á÷Á¢ÀûÀÎ ¼ÕÇØ¿¡ ÇÑÇØ MICROSOFT¿Í ±× °ø±ŞÀÚ·ÎºÎÅÍ ÃÖ´ë ¹ÌÈ­ $5.00±îÁö º¸»ó¹ŞÀ» ¼ö ÀÖ½À´Ï´Ù. ÆÄ»ıÀû ¼ÕÇØ, ÀÌÀÍ ¼Õ½Ç, Æ¯º°, °£Á¢ ¶Ç´Â ºÎ¼öÀû ¼ÕÇØ¸¦ Æ÷ÇÔÇÑ ±âÅ¸ ¸ğµç ¼ÕÇØ¿¡ ´ëÇØ¼­´Â º¸»óÀ» ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.
+ÀÌ Á¦ÇÑ »çÇ×Àº ´ÙÀ½¿¡ Àû¿ëµË´Ï´Ù.
+* Á¦3ÀÚ ÀÎÅÍ³İ »çÀÌÆ®»óÀÇ ¼ÒÇÁÆ®¿ş¾î, ¼­ºñ½º, ÄÜÅÙÃ÷(ÄÚµå Æ÷ÇÔ) ¶Ç´Â Á¦3ÀÚ ÇÁ·Î±×·¥°ú °ü·ÃÇÏ¿© ¹ß»ıÇÏ´Â ¸ğµç ¹®Á¦ 
+* °è¾à À§¹İ, º¸Áõ, º¸Àå ¶Ç´Â Á¶°ÇÀÇ ºÒÀÌÇà, ¹«°ú½Ç Ã¥ÀÓ, °ú½Ç ¶Ç´Â ÇØ´ç ¹ı±Ô¿¡¼­ Çã¿ëÇÏ´Â ¹üÀ§ ³»ÀÇ ±âÅ¸ ºÒ¹ı ÇàÀ§ µîÀ¸·Î ÀÎÇÑ Ã»±¸
+Microsoft°¡ ±×·¯ÇÑ ¼ÕÇØÀÇ °¡´É¼º¿¡ ´ëÇØ »çÀü¿¡ ¾Ë°í ÀÖ¾ú°Å³ª ¾Ë¾Æ¾ß¸¸ Çß´ø °æ¿ì¿¡µµ Àû¿ëµË´Ï´Ù. ±ÍÇÏ°¡ °ÅÁÖÇÏ°í ÀÖ´Â ±¹°¡¿¡¼­ ºÎ¼öÀû, ÆÄ»ıÀû ¶Ç´Â ±âÅ¸ ¼ÕÇØÀÇ ¹èÁ¦³ª Á¦ÇÑÀ» Çã¿ëÇÏÁö ¾Ê´Â °æ¿ì¿¡´Â À§ÀÇ Á¦ÇÑÀÌ³ª ¹èÁ¦°¡ Àû¿ëµÇÁö ¾ÊÀ» ¼ö ÀÖ½À´Ï´Ù.
+PMICROSOFT ¼ÒÇÁÆ®¿ş
